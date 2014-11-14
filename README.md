@@ -1,0 +1,1 @@
+This will be the home for the book [OpenLayers 3 Beginner’s Guide](https://www.packtpub.com/web-development/openlayers-3-beginner%E2%80%99s-guide) from Packt Publishing written by *Thomas Gratier, Paul Spencer and Erik Hazzard*
