@@ -1,0 +1,1 @@
+# Using ol.interaction.DragRotateAndZoom

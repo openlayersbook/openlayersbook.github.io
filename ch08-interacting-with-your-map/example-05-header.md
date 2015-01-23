@@ -1,0 +1,1 @@
+# Introducing ol.Overlay with a static example

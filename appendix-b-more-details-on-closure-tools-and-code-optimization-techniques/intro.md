@@ -1,0 +1,3 @@
+# Appendix B, More details on Closure Tools and Code Optimization Techniques
+
+Appendix B, More details on Closure Tools and Code Optimization Techniques will cover more details on Closure Tools and code optimization techniques. This appendix introduces Closure Tools, a set of tools that OpenLayers 3 library relies on. It provides an understanding on how to use the Closure Library and Closure Compiler with a focus on compressing code files. We will finish with a review of styles and syntax for good coding practices.

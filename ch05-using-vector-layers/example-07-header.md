@@ -1,0 +1,1 @@
+# A drag-and-drop viewer for vector files

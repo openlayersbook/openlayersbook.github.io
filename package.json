@@ -1,0 +1,12 @@
+{
+  "name": "turf-ol3",
+  "version": "0.0.1",
+  "description": "Just a demo for OpenLayers 3 with Turf",
+  "author": "Thomas Gratier",
+  "license": "MIT",
+  "dependencies": {
+    "gitbook": "^1.1.0",
+    "gitbook-plugin-ga": "^0.2.1",
+    "gitbook-plugin-include": "^0.1.0"
+  }
+}

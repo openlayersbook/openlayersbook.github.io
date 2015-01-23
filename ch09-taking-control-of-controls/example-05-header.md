@@ -1,0 +1,1 @@
+# Configuring ZoomToExtent and manipulate controls

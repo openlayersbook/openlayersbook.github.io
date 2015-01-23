@@ -1,0 +1,65 @@
+chapter/appendix,filename,title
+ch01-getting-started-with-openlayers,2360OS_01_01_simple_osm.html,Creating your first map
+ch02-key-concepts-in-openlayers,2360OS_02_01.html,Creating a map
+ch02-key-concepts-in-openlayers,2360OS_02_02.html,Overlaying information
+ch02-key-concepts-in-openlayers,2360OS_02_03_bindTo.html,Using bindTo
+ch03-charting-the-map-class,2360OS_03_01_map.html,Creating a map
+ch03-charting-the-map-class,2360OS_03_02_renderer.html,Rendering a masterpiece
+ch03-charting-the-map-class,2360OS_03_03_targets.html,Target practice
+ch03-charting-the-map-class,2360OS_03_04_animations.html,Creating animated map
+ch03-charting-the-map-class,2360OS_03_05_multiple.html,Linking two views
+ch04-interacting-with-raster-data-source,2360OS_04_01_changing_layer_properties.html,Changing layer properties
+ch04-interacting-with-raster-data-source,2360OS_04_02_osm_layer_and_mapquest.html,Using OSM layer and MapQuest layers to create a map
+ch04-interacting-with-raster-data-source,2360OS_04_03_stamen.html,Creating a Stamen layer
+ch04-interacting-with-raster-data-source,2360OS_04_04_bingmaps.html,Creating a Bing Maps layer
+ch04-interacting-with-raster-data-source,2360OS_04_05_zoomify.html,Creating tiles and adding Zoomify layer
+ch04-interacting-with-raster-data-source,2360OS_04_06_various_sources_and_layers.html,Playing with various sources and layers together
+ch04-interacting-with-raster-data-source,2360OS_04_07_static_image.html,Applying Zoomify sample knowledge to a single raw image
+ch05-using-vector-layers,2360OS_05_01_vector.html,Creating a vector layer
+ch05-using-vector-layers,2360OS_05_02_cluster_source.html,Using the cluster source
+ch05-using-vector-layers,2360OS_05_03_server_sources.html,Creating a loader function
+ch05-using-vector-layers,2360OS_05_04_tiled_sources.html,Working with the TileVector source
+ch05-using-vector-layers,2360OS_05_07_drag_drop.html,A drag-and-drop viewer for vector files
+ch05-using-vector-layers,2360OS_05_08_geometries.html,Geometries in action
+ch05-using-vector-layers,2360OS_05_09_interactive_features.html,Interacting with features
+ch06-styling-vector-layers,2360OS_06_01_basic_style.html,Basic styling
+ch06-styling-vector-layers,2360OS_06_03_icon_style.html,The icon style
+ch06-styling-vector-layers,2360OS_06_06_style_array.html,Using multiple styles
+ch06-styling-vector-layers,2360OS_06_07_style_function.html,Using properties to style features
+ch06-styling-vector-layers,2360OS_06_08_interactive_features.html,Creating interactive styles
+ch07-wrapping-our-heads-around-projections,2360OS_07_01_wms_projection_wgs84.html,Using different projection codes
+ch07-wrapping-our-heads-around-projections,2360OS_07_02_wms_projection.html,Using custom projection with WMS sources
+ch07-wrapping-our-heads-around-projections,2360OS_07_03_wms_no_projection.html,Using custom projection without Proj4js
+ch07-wrapping-our-heads-around-projections,2360OS_07_04_wfs_reprojection.html,Reprojecting geometries in vector layers
+ch08-interacting-with-your-map,2360OS_08_01_simple_select.html,Testing the use cases for ol.interaction.Select
+ch08-interacting-with-your-map,2360OS_08_02_select_options.html,More options with ol.interaction.Select
+ch08-interacting-with-your-map,2360OS_08_03_foreachfeatureatpixel.html,Understanding forEachFeatureAtPixel method
+ch08-interacting-with-your-map,2360OS_08_04_getgetfeatureinfourl.html,Understanding getGetFeatureInfoUrl method
+ch08-interacting-with-your-map,2360OS_08_05_simple_overlay.html,Introducing ol.Overlay with a static example
+ch08-interacting-with-your-map,2360OS_08_06_layer_overlay.html,Using ol.Overlay dynamically with layers information
+ch08-interacting-with-your-map,2360OS_08_07_create_new_content.html,Using ol.interaction.Draw to share new information on the Web
+ch08-interacting-with-your-map,2360OS_08_08_modify.html,Using ol.interaction.Modify to update drawing
+ch08-interacting-with-your-map,2360OS_08_09_configuring_default_interactions.html,Configuring default interactions
+ch08-interacting-with-your-map,2360OS_08_10_drag_rotate_zoom.html,Using ol.interaction.DragRotateAndZoom
+ch08-interacting-with-your-map,2360OS_08_11_dragbox.html,Making rectangle export to GeoJSON with ol.interaction.DragBox
+ch09-taking-control-of-controls,2360OS_09_01_default_controls.html,Starting with the default controls
+ch09-taking-control-of-controls,2360OS_09_02_default_attribution_style.html,Changing the default attribution styles
+ch09-taking-control-of-controls,2360OS_09_03_mouse_position.html,Finding your mouse position
+ch09-taking-control-of-controls,2360OS_09_04_scaleline.html,Discovering ol.control.ScaleLine specific parameters
+ch09-taking-control-of-controls,2360OS_09_05_zoomtoextent.html,Configuring ZoomToExtent and manipulate controls
+ch09-taking-control-of-controls,2360OS_09_06_custom_control.html,Extending ol.control.Control to make your own control
+ch10-openlayers-goes-mobile,2360OS_10_01_mobile.html,Go mobile!
+ch10-openlayers-goes-mobile,2360OS_10_02_geolocation.html,Location, location, location
+ch10-openlayers-goes-mobile,2360OS_10_03_orientation.html,A sense of direction
+ch10-openlayers-goes-mobile,2360OS_10_04_tracking.html,Track me
+ch11-creating-web-map-apps,2360OS_11_01_flickr.html,Adding data to your map
+ch11-creating-web-map-apps,2360OS_11_02_photo_style.html,Creating a style function
+ch11-creating-web-map-apps,2360OS_11_03_json_data.html,Switching to JSON data
+ch11-creating-web-map-apps,2360OS_11_04_thumbnail_style.html,Creating a thumbnail style
+ch11-creating-web-map-apps,2360OS_11_05_selection.html,Adding the select interaction
+ch11-creating-web-map-apps,2360OS_11_08_selection_events.html,Handling selection events
+ch11-creating-web-map-apps,2360OS_11_09_photo_info.html,Displaying photo information
+ch11-creating-web-map-apps,2360OS_11_10_live_data.html,Getting dynamic data
+ch11-creating-web-map-apps,2360OS_11_11_search.html,Adding dynamic tags to your map
+ch11-creating-web-map-apps,2360OS_11_13_combined.html,Creating a combined build
+ch11-creating-web-map-apps,2360OS_11_14_separate.html,Creating a separate build

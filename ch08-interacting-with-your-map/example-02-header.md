@@ -1,0 +1,1 @@
+# More options with ol.interaction.Select

@@ -1,0 +1,1 @@
+# Making rectangle export to GeoJSON with ol.interaction.DragBox
