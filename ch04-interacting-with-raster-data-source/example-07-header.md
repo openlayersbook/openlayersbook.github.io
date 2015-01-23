@@ -1,0 +1,1 @@
+# Applying Zoomify sample knowledge to a single raw image

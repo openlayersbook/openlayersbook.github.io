@@ -1,0 +1,1 @@
+# Discovering ol.control.ScaleLine specific parameters
